@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1099159959383",
+    "firebase_url": "https://arthfinance-7bf64.firebaseio.com",
+    "project_id": "arthfinance-7bf64",
+    "storage_bucket": "arthfinance-7bf64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099159959383:android:0743fe0498e2ab48",
+        "android_client_info": {
+          "package_name": "heartbeat.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099159959383-t1ivap9i8mntg1af3otcj01f0k115h4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmh2w7UI30aSo2wJV_4jVGYJUi8S4xhEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

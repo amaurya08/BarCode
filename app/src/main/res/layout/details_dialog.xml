@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:layout_centerInParent="true"
+    android:background="@drawable/aadharback">
+
+    <TableLayout
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp">
+
+        <TableRow>
+
+            <TextView
+                android:text="Name"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/uid_name"
+                android:layout_marginStart="10dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="Year of Birth"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/yob"
+                android:layout_marginStart="10dp"
+
+                />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="Date of Birth"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/dob_name"
+                android:layout_marginStart="10dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="Father Name"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/co_name"
+                android:layout_marginStart="10dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/add_head"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="Address" />
+
+            <TextView
+                android:id="@+id/address"
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:lines="5" />
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

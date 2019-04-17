@@ -1,0 +1,13 @@
+<resources>
+    <string name="scan">Scan QR</string>
+    <string name="save">Save</string>
+    <string name="app_name">ARTH FINANCE</string>
+    <string name="file_name">Enter File Name Here</string>
+    <string name="addmore">Add More</string>
+    <string name="camera"><b>Camera</b></string>
+    <string name="storage"><b>Storage </b> </string>
+    <string name="camera_desc">This lets Application access Camera so that Addhar Cards can be scanned via Scanner </string>
+    <string name="storage_desc">This lets Application access storage so that CSV/Excel Files can be shared.</string>
+    <string name="copyright">© 2012 Arth Micro Finance, All rights reserved.</string>
+    <string name="logo">logo</string>
+</resources>

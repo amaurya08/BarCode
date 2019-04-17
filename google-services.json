@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963777221831",
+    "firebase_url": "https://iwanttotest-b8e2b.firebaseio.com",
+    "project_id": "iwanttotest-b8e2b",
+    "storage_bucket": "iwanttotest-b8e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963777221831:android:0743fe0498e2ab48",
+        "android_client_info": {
+          "package_name": "heartbeat.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963777221831-h1ibo4mgai42i31ebnvcg7cgmu8c0tpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4B61qgWrFGibjHqD98d8Cd5Miw_BbgXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
